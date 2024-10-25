@@ -170,7 +170,7 @@ Uma
      double rating;
      boolean companyTransport;
  
-     public Employee(int employeeId, String name, String branch, double rating, boolean companyTransport) {
+     Employee(int employeeId, String name, String branch, double rating, boolean companyTransport) {
          this.employeeId = employeeId;
          this.name = name;
          this.branch = branch;
